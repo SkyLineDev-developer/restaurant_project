@@ -8,7 +8,7 @@ import Reservations from '@/components/Reservations';
 import Footer from '@/components/Footer';
 
 export const metadata = {
-  title: "D’Mortain · Fine Dining · Ciudad de México",
+  title: "D’Mortain · Fine Dining · Bogotá D.C, Colombia",
   description:
     'lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sapiente dignissimos odio quo ex tempora error voluptate sequi accusantium, repellat quaerat illo, libero, quae itaque corporis recusandae soluta molestias suscipit?',
 };
